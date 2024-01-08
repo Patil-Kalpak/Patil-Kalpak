@@ -16,7 +16,7 @@ I'm a passionate Android developer currently exploring the exciting world of Mac
 - **Backend:** Firebase
 - **Tools & Platforms:** Android Studio
 
-## 📈 GitHub Stats
+## 📈 GitHub-Stats
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide_title=true)](https://github.com/YourGitHubUsername)
 

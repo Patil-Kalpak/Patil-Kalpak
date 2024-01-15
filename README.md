@@ -1,5 +1,6 @@
 # Hello, I'm Kalpak Patil 👋
 
+
 I'm a passionate Android developer currently exploring the exciting world of Machine Learning. I have a strong foundation in data structures and algorithms (DSA), and I'm enthusiastic about building innovative and impactful applications.
 
 ## 🚀 Current Focus

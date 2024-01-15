@@ -13,11 +13,13 @@ I'm a passionate Android developer currently exploring the exciting world of Mac
 
 ## 🛠️ Tech Stack
 
-- **Languages:** C, C++, Kotlin, Python, Node.js
+- **Languages:** C, C++, Kotlin, Python  
 - **Backend:** Firebase
 - **Tools & Platforms:** Android Studio
 
+## 📈 GitHub Stats
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Patil-Kalpak&show_icons=true&hide_title=true)](https://github.com/Patil-Kalpak)
 
 ## 📬 Reach Me
 

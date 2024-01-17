@@ -17,11 +17,7 @@ I'm a passionate Android developer currently exploring the exciting world of Mac
 - **Backend:** Firebase
 - **Tools & Platforms:** Android Studio
 
-## 📈 GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Patil-Kalpak&show_icons=true&hide_title=true)](https://github.com/Patil-Kalpak)
-
-## 📬 Reach Me
 
 Feel free to reach out for collaboration, questions, or just to say hi!
 

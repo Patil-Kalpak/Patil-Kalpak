@@ -1,20 +1,19 @@
 # Hello, I'm Kalpak Patil 👋
 
 
-I'm a passionate Android developer currently exploring the exciting world of Machine Learning. I have a strong foundation in data structures and algorithms (DSA), and I'm enthusiastic about building innovative and impactful applications.
+I'm a passionate Android developer currently exploring the exciting world of Flask Python. I have a strong foundation in data structures and algorithms (DSA), and I'm enthusiastic about building innovative and impactful applications.
 
 ## 🚀 Current Focus
 
 - Android Development using Kotlin
-- Machine Learning and Data Science
-- Firebase for Backend Development
-- Exploring C, C++, Python, and Node.js
+- Firebase and Flask for Backend Development
+- Exploring Kotlin, Python,
 - Embracing the beauty of Data Structures and Algorithms (DSA)
 
 ## 🛠️ Tech Stack
 
 - **Languages:** C, C++, Kotlin, Python  
-- **Backend:** Firebase
+- **Backend:** Firebase,Flask
 - **Tools & Platforms:** Android Studio
 
 
